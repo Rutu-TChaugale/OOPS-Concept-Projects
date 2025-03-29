@@ -1,7 +1,3 @@
-Here’s a **detailed and well-structured** README file for your OOP Concepts project repository. It includes all necessary sections, making it **professional, attractive, and impactful** for users and contributors.  
-
----
-
 # 🚀 OOP Concepts Project Repository  
 
 ## 📌 Introduction  
